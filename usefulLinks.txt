@@ -1,0 +1,6 @@
+Some useful links:
+- fetching data with the fetch API: https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
+- fetching data with effects in React: https://react.dev/reference/react/useEffect#fetching-data-with-effects
+- json-server getting started: https://www.npmjs.com/package/json-server#getting-started
+- fetching data with axios: https://www.npmjs.com/package/axios#example
+- HTTP request methods: https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods
